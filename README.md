@@ -33,10 +33,14 @@ da matrícula.
 
 
 *MODELO CONCEITUAL*
+
 ![faculconceitual](https://github.com/user-attachments/assets/decb4ead-61c5-4ced-9aab-55979f431374)
 
+
 *MODELO LÓGICO*
+
 ![facullogico1](https://github.com/user-attachments/assets/f43c012b-96bc-4f47-96f1-a51d35bddae3)
+
 ![facullogico2](https://github.com/user-attachments/assets/d9c7c65f-2688-450d-abc4-7bc907d5307c)
 
 
