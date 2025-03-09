@@ -44,3 +44,6 @@ da matrícula.
 ![facullogico2](https://github.com/user-attachments/assets/d9c7c65f-2688-450d-abc4-7bc907d5307c)
 
 
+*MODELO FÍSICO*
+
+fisico faculdade portifolio.sql
